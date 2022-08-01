@@ -1,0 +1,6 @@
+[submodule "onceindustry-blog-api"]
+	path = onceindustry-blog-api
+	url = https://github.com/kyowoii23/onceindustry-blog-api.git
+[submodule "onceindustry-bolg-front"]
+	path = onceindustry-bolg-front
+	url = https://github.com/kyowoii23/onceindustry-bolg-front.git
